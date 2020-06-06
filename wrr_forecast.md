@@ -7,9 +7,9 @@ Markdown 转微信公众帐号内容神器，能让`Markdown`内容，无需作�
 
 
 **更多请参考**：
-[Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). Real‐time flood forecasting based on a high‐performance 2D hydrodynamic model and numerical weather predictions. Water Resources Research.](https://doi.org/10.1029/2019wr025583)
+Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). [Real‐time flood forecasting based on a high‐performance 2D hydrodynamic model and numerical weather predictions.](https://doi.org/10.1029/2019wr025583) Water Resources Research.
 
-敬请登陆我们的网站（https://www.hemlab.org），关注我们的最新研究
+敬请登陆我们的网站[https://www.hemlab.org], 关注我们的最新研究
 ![qrcode](https://github.com/mingxiaodong/markdown_test/blob/master/HEMLab_Wechat_QRcode.jpeg)
 
 ***

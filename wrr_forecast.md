@@ -2,6 +2,7 @@
 > 关注水灾害、山地灾害模拟及风险评估。问题或建议，请公众号留言。
 
 ![封面图片](https://github.com/mingxiaodong/markdown_test/blob/master/Paper_preview.png)
+HEMLab团队在Water Resources Research发表新成果：基于二维高性能水动力模型和数值天气预报的实时洪水预报系统
 ### HEMLab 出品：全流域-高精度-实时洪水预报系统
 HiPIMS模型经过[梁秋华](https://www.lboro.ac.uk/departments/abce/staff/qiuhua-liang/)教授领导的HEMLab团队多年研发，目前已具备在大中型流域进行上亿网格、米级分辨率，以实时速度进行降雨-产汇流-洪水淹没计算的能力。该模型结合数值天气预报被应用于实时洪水预报，具有以下研究亮点：
 * 基于全水动力学模拟和数值天气预报，开发出了一个高精度的实时洪水预报系统

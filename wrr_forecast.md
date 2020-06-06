@@ -13,7 +13,7 @@ HEMLab团队在Water Resources Research发表新成果：基于二维高性能�
 ![图二](https://github.com/mingxiaodong/markdown_test/blob/master/CA1_4map.png)
 图2. 不同时段的洪水淹没深度及范围预报
 
-表1.Performance of the forecasting system in reproducing the surveyed flood extent in Carlisle with postcodes “CA1”.
+表1. Carlisle市中心区域的淹没范围预报表现
 Total cells|Hits|Misses|False alarms|Correct negatives|POD|FAR|CSI
 -----------|----|------|------------|-----------------|---|---|---
 105583|24369|249|9644|71321|0.99|0.28|0.71
@@ -28,10 +28,4 @@ Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). [Real‐time flood
 
 敬请登陆我们的网站[https://www.hemlab.org], 或者通过我们的微信公众号，关注我们的最新研究。
 ![qrcode](https://github.com/mingxiaodong/markdown_test/blob/master/HEMLab_Wechat_QRcode.jpeg)
-
-***
-<a id="jump_1">我是页内跳转到的位置</a>
-
-### LICENSE
-MIT. Thanks for @barretlee.
 

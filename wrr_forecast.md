@@ -3,13 +3,12 @@
 
 ### HEMLab 出品：流域尺度降雨-产汇流-洪水全过程水动力模拟
 HiPIMS模型经过HEMLab团队多年研发，目前已具备在大中型流域进行一亿网格米级分辨率以实时速度进行降雨-产汇流-洪水淹没计算的能力，目前已被应用至英国Eden流域实时洪水预报，相关成果已发表在水资源顶级期刊Water Resources Research中，敬请专家同行批评指正。
-Markdown 转微信公众帐号内容神器，能让`Markdown`内容，无需作任何调整就能**一键复制**到微信公众号使用，特别针对代码展示做了优化。
 
 
 **更多请参考**：
 Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). [Real‐time flood forecasting based on a high‐performance 2D hydrodynamic model and numerical weather predictions.](https://doi.org/10.1029/2019wr025583) Water Resources Research.
 
-敬请登陆我们的网站[https://www.hemlab.org], 关注我们的最新研究
+敬请登陆我们的网站[https://www.hemlab.org], 或者通过我们的微信公众号，关注我们的最新研究。
 ![qrcode](https://github.com/mingxiaodong/markdown_test/blob/master/HEMLab_Wechat_QRcode.jpeg)
 
 ***
